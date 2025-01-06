@@ -1364,7 +1364,7 @@ canvas:not(#ribbon-canvas),
   --card-hover-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.09);
   --pseudo-hover: #ff7242;
   --headline-presudo: #a0a0a0;
-  --scrollbar-color: #49b1f5;
+  --scrollbar-color: #8b8b7a;
   --default-bg-color: #49b1f5;
   --zoom-bg: #fff;
   --mark-bg: rgba(0,0,0,0.3);
@@ -1465,7 +1465,7 @@ table td {
   vertical-align: middle;
 }
 *::selection {
-  background: #fbc5c5;
+  background: #ee8b8b;
   color: #f7f7f7;
 }
 button {
@@ -2976,7 +2976,7 @@ figure.highlight pre .javascript .function {
   color: #49b1f5;
 }
 #aside-content #card-toc .toc-content .toc-link.active {
-  background: #00c4b6;
+  background: #ee8b8b;
   color: #fff;
 }
 #aside-content .sticky_layout:only-child > :first-child {
