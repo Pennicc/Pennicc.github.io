@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>测试文章1</title>
-      <link href="/2025/01/06/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01/"/>
-      <url>/2025/01/06/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01/</url>
+      <title>test-text</title>
+      <link href="/2025/01/06/test-text/"/>
+      <url>/2025/01/06/test-text/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>&#x2F;&#x2F;首页文章展示缩略图<br><img src="https://cdn.jsdelivr.net/gh/Pennicc/imag-repostioty@main/misc/086740dfb7d1d9ee.jpg" alt="111" style="width:100%" />  </p><p>0x00 前言</p><span id="more"></span><h2 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h2><h2 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h2><h2 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h2><h2 id="0x04"><a href="#0x04" class="headerlink" title="0x04"></a>0x04</h2><hr />版权信息]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="诶，铁牛牛"><a href="#诶，铁牛牛" class="headerlink" title="诶，铁牛牛"></a>诶，铁牛牛</h2><p><img src="https://cdn.jsdelivr.net/gh/Pennicc/imag-repostioty@main/misc/086740dfb7d1d9ee.jpg"></p><h2 id="凌波丽"><a href="#凌波丽" class="headerlink" title="凌波丽"></a>凌波丽</h2><p><img src="https://cdn.jsdelivr.net/gh/Pennicc/imag-repostioty@main/blog/7fddde2e68eab6ec.png"></p><h2 id="代码测试"><a href="#代码测试" class="headerlink" title="代码测试"></a>代码测试</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">int</span> <span class="title function_">s_math_add</span><span class="params">(<span class="type">int</span> a, <span class="type">int</span> b)</span>&#123;</span><br><span class="line">    <span class="type">int</span> c = a + b;</span><br><span class="line">    <span class="keyword">return</span> c;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="数学公式"><a href="#数学公式" class="headerlink" title="数学公式"></a>数学公式</h2><p>$$<br>y&#x3D;ax+b \<br>\log \<br>\sum^n_{i&#x3D;1} \<br>\begin{vmatrix} 0&amp;1&amp;2\ 3&amp;4&amp;5\ 6&amp;7&amp;8\ \end{vmatrix} \<br>$$</p><hr />版权信息]]></content>
       
       
       
